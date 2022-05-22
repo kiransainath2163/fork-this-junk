@@ -2,4 +2,4 @@
 
 Hello! Adding tet here for first commit
 
-git origin master
+git origin master Second scenario added
