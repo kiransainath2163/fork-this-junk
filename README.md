@@ -1,5 +1,5 @@
 # fork-this-junk
 
-Hello! Adding tet here for first commit
+Hello! Adding text here for first commit
 
-git origin master Second scenario added
+git origin master  conflicting scenario added
